@@ -21,5 +21,6 @@ PetPaws is a web platform developed during a hackathon to make pet adoption safe
 Pet adoption platforms often lack proper verification, which can compromise pet safety. PetPaws addresses this by providing a simple adoption form as a final step, ensuring that every adoption is responsible while maintaining an easy-to-use interface.
 
 **Hackathon Context**
+
 This project was developed in 24 hours during HacktoberFest24 CBIT.
 It demonstrates how a frontend-only solution can deliver an engaging user experience while addressing real-world challenges in pet adoption.
