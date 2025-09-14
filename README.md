@@ -12,9 +12,9 @@ PetPaws is a web platform developed during a hackathon to make pet adoption safe
 
 **Tech Stack**
 
-#Frontend: HTML, CSS, JavaScript
-#Styling: Custom CSS with responsive layouts
-#Interactivity: JavaScript for dynamic features
+1. Frontend: HTML, CSS, JavaScript
+2. Styling: Custom CSS with responsive layouts
+3. Interactivity: JavaScript for dynamic features
 
 **Motivation**
 
