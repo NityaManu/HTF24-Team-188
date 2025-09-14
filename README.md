@@ -1,6 +1,6 @@
-**PetPaws**
+**HappyPaws**
 
-PetPaws is a web platform developed during a hackathon to make pet adoption safer and easier. Built entirely with HTML, CSS, and JavaScript, it allows users to log in, explore available pets, apply filters to refine results, and complete an adoption application form to ensure responsible ownership.
+HappyPaws is a web platform developed during a hackathon to make pet adoption safer and easier. Built entirely with HTML, CSS, and JavaScript, it allows users to log in, explore available pets, apply filters to refine results, and complete an adoption application form to ensure responsible ownership.
 
 **Features**
 
@@ -18,7 +18,7 @@ PetPaws is a web platform developed during a hackathon to make pet adoption safe
 
 **Motivation**
 
-Pet adoption platforms often lack proper verification, which can compromise pet safety. PetPaws addresses this by providing a simple adoption form as a final step, ensuring that every adoption is responsible while maintaining an easy-to-use interface.
+Pet adoption platforms often lack proper verification, which can compromise pet safety. HappyPaws addresses this by providing a simple adoption form as a final step, ensuring that every adoption is responsible while maintaining an easy-to-use interface.
 
 **Hackathon Context**
 
