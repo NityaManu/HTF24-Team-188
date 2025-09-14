@@ -24,3 +24,5 @@ Pet adoption platforms often lack proper verification, which can compromise pet 
 
 This project was developed in 24 hours during HacktoberFest24 CBIT.
 It demonstrates how a frontend-only solution can deliver an engaging user experience while addressing real-world challenges in pet adoption.
+
+**You can access the website here:** https://nityamanu.github.io/PetPaws_HFT24/
