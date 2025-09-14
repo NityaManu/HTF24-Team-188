@@ -26,3 +26,5 @@ This project was developed in 24 hours during HacktoberFest24 CBIT.
 It demonstrates how a frontend-only solution can deliver an engaging user experience while addressing real-world challenges in pet adoption.
 
 **You can access the website here:** https://nityamanu.github.io/HappyPaws_HFT24/
+**Demo video of HappyPaws:**
+https://drive.google.com/drive/folders/1Dqdlu1shvUcBgMeTmIUWqHlF9CWUhrM0
