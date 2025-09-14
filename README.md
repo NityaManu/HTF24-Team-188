@@ -1,76 +1,25 @@
-# HTF24-Team-188
+**PetPaws**
 
-## GitHub submission guide
+PetPaws is a web platform developed during a hackathon to make pet adoption safer and easier. Built entirely with HTML, CSS, and JavaScript, it allows users to log in, explore available pets, apply filters to refine results, and complete an adoption application form to ensure responsible ownership.
 
-In this Readme, you will find a guide on how to fork this Repository, add files to it, and make a pull request to contribute your changes.
+**Features**
 
-<details open>
-<summary><h3>1. Login to your GitHub Account by heading over to <a href="https://github.com">github.com</a></h3></summary>
-<br>
-<ul>
-   <li>Open the <a href="https://github.com/cbitosc/HTF24-Team-188">current repo</a> in a new tab.</li>
-   <li>Perform all operations in the newly opened tab, and follow the current tab for instructions.</li>
-</ul>
-</details>
+1. Login page to authenticate users before accessing the platform
+2. Filter and search options to find pets based on breed, size, or other attributes
+3. Structured pet listings with a responsive and user-friendly interface
+4. Adoption application form to verify users and promote pet safety
+5. Responsive design for smooth access across desktop and mobile devices
 
-<details>
-<summary><h3>2. Fork the Repository</h3></summary>
-<br>
-<ul>
- <li>In the newly opened tab, on the top-right corner, click on <b>Fork</b></li>
- <img src="/images/fork.png">
+**Tech Stack**
 
- <li>Enter the <b>Repository Name</b> as <b>HTF24-Team-188</b>.</li>
- <li>Then click <b>Create Fork</b> leaving all other fields to their default value.</li>
- <img src="/images/create-fork.png">
- <li>After a few moments, you can view the repo.</li>
-</ul>
-</details>
+#Frontend: HTML, CSS, JavaScript
+#Styling: Custom CSS with responsive layouts
+#Interactivity: JavaScript for dynamic features
 
-<details>
-<summary><h3>3. Clone your Repository</h3></summary>
-<br>
-<ul>
- <li>Click on <b>Code</b> and from the dropdown menu copy your <b>web URL</b> in your forked Repository. </li>
- <img src="/images/clone1.png">
- <li>Now open terminal on your local machine.</li>
- <li>Use the following command to clone your forked Repository:</li>
-<code> git clone https://github.com/your-username/HTF24-Team-188.git </code>
-<hr>
- <img src="/images/clone2.png">
+**Motivation**
 
-</ul>
-</details>
+Pet adoption platforms often lack proper verification, which can compromise pet safety. PetPaws addresses this by providing a simple adoption form as a final step, ensuring that every adoption is responsible while maintaining an easy-to-use interface.
 
-<details>
-<summary><h3>4. Adding files to the Repository</h3></summary>
-<br/>
-<ul>
- <li>While doing it for the first time, create a new branch for your changes.</li>
-   <code> git checkout -b branch-name </code>
-   <li>Add your files or make modifications to existing files.</li>
-   <li>Stage your changes:</li>
-   <code> git add . </code>
-   <li>Commit your changes:</li>
-   <code> git commit -m "Descriptive commit message" </code>
-   <li>Push changes to your fork </li>
-   <code> git push origin branch-name </code>
-   <hr>
-   
- <img src="/images/push.png">
-</ul>
-</details>
-
-<details>
-<summary><h3>5. Create a Pull Request</h3></summary>
-   <br>
-<ul>
- <li>Finally, click on the <b>Contribute</b> button and choose <b>Open Pull Request</b>.</li>
- <img src="/images/PR1.png">
- <li>Leaving all fields to their default values, click on <b>Create Pull Request</b>.</li>
- <img src="/images/PR2.png">
- <li>Wait for a few moments, then you are all done</li>
-</ul>
-</details>
-
-## Thanks for participating!
+**Hackathon Context**
+This project was developed in 24 hours during HacktoberFest24 CBIT.
+It demonstrates how a frontend-only solution can deliver an engaging user experience while addressing real-world challenges in pet adoption.
